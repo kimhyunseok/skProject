@@ -33,7 +33,7 @@ C#으로 개발할 때는 Visual Studio를 사용했었고 많은 단축키와 �
 
 # Personal Projects
 # 컴맹pc
-
+https://user-images.githubusercontent.com/22089968/55454881-75fb7e80-561c-11e9-8491-914fc2c572cc.PNG
 # 항공리뷰
 
 # 동아리채널
