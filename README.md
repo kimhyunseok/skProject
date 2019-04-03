@@ -33,5 +33,7 @@ C#으로 개발할 때는 Visual Studio를 사용했었고 많은 단축키와 �
 
 # Personal Projects
 # 컴맹pc
-# 항골리뷰
+
+# 항공리뷰
+
 # 동아리채널
