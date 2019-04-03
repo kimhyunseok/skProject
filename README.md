@@ -32,4 +32,4 @@ curd,function,조인,서브쿼리등 기본적인 SQL공부했습니다.
 # 항공리뷰
 
 # 동아리채널
-<img src="https://user-images.githubusercontent.com/22089968/55454881-75fb7e80-561c-11e9-8491-914fc2c572cc.PNG" width="90%"></img>
+<img src="https://user-images.githubusercontent.com/22089968/55454881-75fb7e80-561c-11e9-8491-914fc2c572cc.PNG" alt="캡처" style="max-width:100%;">
